@@ -1,5 +1,7 @@
 # POP – Puppet Protocol for Neurodivergent Development
 
+## Nnedwo , GINI POPPIN ?
+
 **Non-invasive, seamlessly integrated BCI with Plasma Coherence for neurodivergent R&D**
 
 ![OBINexus Logo](path/to/logo.png)
